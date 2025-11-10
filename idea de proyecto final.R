@@ -15,4 +15,6 @@ maga <- function(){
   }
 }
   maga()
+
+# Después se hace el análisis
   
